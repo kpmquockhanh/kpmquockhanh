@@ -1,16 +1,25 @@
-### Hi there 👋
-![My github stats](https://github-readme-stats.vercel.app/api?username=kpmquockhanh&show_icons=true&hide_border=true)
-<!--
-**kpmquockhanh/kpmquockhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Quoc Khanh 👋
 
-Here are some ideas to get you started:
+love to learn new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🔭 Currently working on**
+- AI-powered Telegram bot with Gemini
+- Raspberry Pi automation & GPIO projects
+- Etsy seller tools & marketplace optimization
+
+**🛠 Tech I use**
+- **Languages:** Go, JavaScript, Vue, PHP, Shell, Lua
+- **Interests:** Microservices, IoT/Raspberry Pi, AI/ML, E-commerce, DevTools
+
+**📌 Featured Projects**
+- [gemini-telegram](https://github.com/kpmquockhanh/gemini-telegram) — AI Telegram chatbot backed by Gemini (Go)
+- [pi-gpio-nodes](https://github.com/kpmquockhanh/pi-gpio-nodes) — Raspberry Pi GPIO automation (Go)
+- [simple-microservice-go](https://github.com/kpmquockhanh/simple-microservice-go) — Microservice example in Go
+- [shopee-tool](https://github.com/kpmquockhanh/shopee-tool) — E-commerce utility tool (JavaScript)
+- [dotconfig](https://github.com/kpmquockhanh/dotconfig) — Personal dotfiles & editor config (Lua)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kpmquockhanh&show_icons=true&hide_border=true&theme=default)
