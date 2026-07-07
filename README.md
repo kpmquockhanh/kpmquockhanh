@@ -23,4 +23,3 @@ love to learn new things
 ---
 
 [![Quoc Khanh's GitHub stats](https://github-stats-extended.vercel.app/api?username=kpmquockhanh&show_icons=true&hide_border=true&theme=default)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=kpmquockhanh&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=kpmquockhanh&layout=compact&langs_count=4)
